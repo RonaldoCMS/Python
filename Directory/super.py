@@ -103,6 +103,9 @@ def outputNumeri(text, list, delay):
         print(str(numeri))
 
 
+def vincita(list):
+    
+
 # ESECUZIONE
 if __name__ == "__main__":
 
